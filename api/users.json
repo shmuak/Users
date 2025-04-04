@@ -1,0 +1,138 @@
+[
+  {
+    "id": 2,
+    "firstName": "Иван",
+    "lastName": "Петров",
+    "height": 183,
+    "weight": 71,
+    "gender": "мужской",
+    "location": "Москва",
+    "photo": "/assets/photo/ivan.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": "Захар",
+    "lastName": "Антонов",
+    "height": 163,
+    "weight": 61,
+    "gender": "мужской",
+    "location": "Москва",
+    "photo": "/assets/photo/ivan.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": "Владислав",
+    "lastName": "Ставров",
+    "height": 188,
+    "weight": 69,
+    "gender": "мужской",
+    "location": "Гомель"
+  },
+  {
+    "id": 5,
+    "firstName": "Светлана",
+    "lastName": "Иванова",
+    "height": 155,
+    "weight": 45,
+    "gender": "мужской",
+    "location": "Минск"
+  },
+  {
+    "id": 6,
+    "firstName": "Илья",
+    "lastName": "Ёжиков",
+    "height": 190,
+    "weight": 105,
+    "gender": "мужской",
+    "location": "Бобруйск",
+    "photo": "/assets/photo/ivan.jpg"
+  },
+  {
+    "id": 7,
+    "firstName": "Никита",
+    "lastName": "Чалапан",
+    "height": 187,
+    "weight": 80,
+    "gender": "мужской",
+    "location": "Слуцк",
+    "photo": "/assets/photo/ivan.jpg"
+  },
+  {
+    "id": 9,
+    "firstName": "Антон",
+    "lastName": "Кишкунов",
+    "height": 180,
+    "weight": 71,
+    "gender": "мужской",
+    "location": "Гомель"
+  },
+  {
+    "id": 10,
+    "firstName": "Даниил",
+    "lastName": "Сидоренко",
+    "height": 180,
+    "weight": 72,
+    "gender": "мужской",
+    "location": "Минск",
+    "photo": "/assets/photo/ivan.jpg"
+  },
+  {
+    "id": 11,
+    "firstName": "Николай",
+    "lastName": "Смирнов",
+    "height": 183,
+    "weight": 71,
+    "gender": "мужской",
+    "location": "Москва",
+    "photo": "/assets/photo/ivan.jpg"
+  },
+  {
+    "id": 12,
+    "firstName": "Дарья",
+    "lastName": "Полухина",
+    "height": 163,
+    "weight": 51,
+    "gender": "Женский",
+    "location": "Москва"
+  },
+  {
+    "id": 13,
+    "firstName": "Николай",
+    "lastName": "Смирнов",
+    "height": 183,
+    "weight": 71,
+    "gender": "мужской",
+    "location": "Москва",
+    "photo": "/assets/photo/ivan.jpg"
+  },
+  {
+    "id": 14,
+    "firstName": "Николай",
+    "lastName": "Смирнов",
+    "height": 183,
+    "weight": 71,
+    "gender": "мужской",
+    "location": "Москва",
+    "photo": "/assets/photo/ivan.jpg"
+  },
+  {
+    "id": 15,
+    "firstName": "Николай",
+    "lastName": "Смирнов",
+    "height": 183,
+    "weight": 71,
+    "gender": "мужской",
+    "location": "Москва",
+    "photo": "/assets/photo/ivan.jpg"
+  },
+  {
+    "id": 16,
+    "firstName": "Диана",
+    "lastName": "Глушакова ",
+    "height": 154,
+    "weight": 43,
+    "gender": "Женский",
+    "location": "Гомель",
+    "photo": ""
+  }
+]

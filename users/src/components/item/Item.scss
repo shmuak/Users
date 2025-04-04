@@ -1,0 +1,127 @@
+.item-wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: #f1f3ea;
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%;
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  img {
+    padding: 10px;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+
+    @media (min-width: 576px) {
+      width: 100px;
+      height: 100px;
+    }
+
+    @media (min-width: 768px) {
+      width: 120px;
+      height: 120px;
+    }
+  }
+
+  .item-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    @media (min-width: 576px) {
+      flex-direction: row;
+      align-items: flex-start;
+    }
+  }
+
+  .item-info {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+
+    @media (min-width: 576px) {
+      font-size: 18px;
+    }
+
+    @media (min-width: 768px) {
+      font-size: 20px;
+    }
+
+    span {
+      margin: 4px 0;
+    }
+  }
+
+  .edit-mode {
+    width: 100%;
+    
+    .edit-field {
+      margin-bottom: 8px;
+      
+      .edit-label {
+        display: block;
+        margin-bottom: 4px;
+        font-size: 14px;
+        
+        @media (min-width: 576px) {
+          font-size: 16px;
+        }
+      }
+      
+      .ant-input, .ant-select {
+        width: 100%;
+      }
+    }
+  }
+
+  .item-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+
+    @media (min-width: 768px) {
+      justify-content: flex-end;
+      margin-top: 0;
+    }
+
+    button {
+      width: 40px;
+      height: 40px;
+      border: none;
+      border-radius: 12px;
+      background-color: #e0e0e0;
+      transition: 0.3s ease;
+      cursor: pointer;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      @media (min-width: 576px) {
+        width: 45px;
+        height: 45px;
+        font-size: 18px;
+      }
+
+      &:hover {
+        background-color: #d1cfcf;
+        transform: scale(1.1);
+      }
+
+      &:active {
+        transform: scale(0.95);
+      }
+    }
+  }
+}
