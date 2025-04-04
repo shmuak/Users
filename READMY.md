@@ -10,4 +10,5 @@
 cd ../users</strong> <br>
 установить зависимости: <strong>npm i</strong> <br>
 запустить проект: <strong>npm run dev</strong> <br>
-</p>
+</p> 
+после запуска проета надо перейти на http://localhost:5173/
